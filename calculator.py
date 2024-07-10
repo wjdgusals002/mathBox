@@ -7,5 +7,9 @@ def subtract(a, b):
 def multiply(a,b):
   return a*b
 
+<<<<<<< HEAD
 def devidee(a,b):
+=======
+def devide(a,b):
+>>>>>>> main
   return a/b
