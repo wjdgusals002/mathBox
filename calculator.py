@@ -9,3 +9,6 @@ def multiply(a,b):
 
 def devide_free(a,b):
   return a/b
+
+def sqare(a):
+  return a*a
